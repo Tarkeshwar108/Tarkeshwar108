@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://www.5yinc.com/">Bosframework</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://niitbirgunj.edu.np/">NIIT Birgunj</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: tarkeshwaryadav](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarkeshwaryadav/)](https://www.linkedin.com/in/tarkeshwaryadav/)
+[![Linkedin: tarkeshwaryadav](https://img.shields.io/badge/-tarkeshwaryadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarkeshwaryadav/)](https://www.linkedin.com/in/tarkeshwaryadav/)
 [![GitHub Tarkeshwar108](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Tarkeshwar108/)
 
 
