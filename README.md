@@ -1,5 +1,5 @@
 <h2> Hi, I'm Tarkeshwar Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.kickstarter.com/projects/674610728/rescuties-vr-save-the-day-with-your-htc-vive-oculu?token=68e26bf6" width="230">
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.5yinc.com/">Bosframework</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://niitbirgunj.edu.np/">NIIT Birgunj</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
